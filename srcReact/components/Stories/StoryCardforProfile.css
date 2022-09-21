@@ -1,0 +1,17 @@
+.card2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.card2 .storyImage{
+    width: 326px;
+    height: 280px;
+    background-color: var(--main-color);
+    overflow: hidden;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}

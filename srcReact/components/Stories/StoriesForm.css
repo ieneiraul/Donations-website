@@ -1,0 +1,7 @@
+.storiesGrid{
+    display:grid;
+    margin: 50px 15px 20px 30px;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2em;
+    overflow:auto;
+}
